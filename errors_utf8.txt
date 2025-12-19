@@ -1,0 +1,43 @@
+﻿Analyzing calculator_provider.dart...
+
+  error - calculator_provider.dart:35:34 - Classes can only extend other classes. Try specifying a different superclass, or removing the extends clause. - extends_non_class
+  error - calculator_provider.dart:36:32 - Too many positional arguments: 0 expected, but 1 found. Try removing the extra arguments. - extra_positional_arguments
+  error - calculator_provider.dart:46:5 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:46:13 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:50:38 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:51:5 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:51:13 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:57:5 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:57:13 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:57:43 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:61:9 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:61:32 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:66:9 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:66:17 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:66:44 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:69:9 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:69:17 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:74:5 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:74:13 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:74:40 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:82:5 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:82:13 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:86:9 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:87:7 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:87:15 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:88:21 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:88:51 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:95:32 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:139:21 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:146:7 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:146:15 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:148:7 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:148:15 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:153:5 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:153:13 - Undefined name 'state'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - calculator_provider.dart:159:5 - The function 'StateNotifierProvider' isn't defined. Try importing the library that defines 'StateNotifierProvider', correcting the name to the name of an existing function, or defining a function named 'StateNotifierProvider'. - undefined_function
+   info - calculator_provider.dart:118:7 - 'Parser' is deprecated and shouldn't be used. Use [GrammarParser] or [ShuntingYardParser]. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - calculator_provider.dart:118:18 - 'Parser' is deprecated and shouldn't be used. Use [GrammarParser] or [ShuntingYardParser]. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - calculator_provider.dart:121:25 - 'evaluate' is deprecated and shouldn't be used. Use [RealEvaluator], [IntervalEvaluator], or [VectorEvaluator]. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+
+39 issues found.
